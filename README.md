@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/330963539475038209)theme=:light ](https://discord.com/users/330963539475038209) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/330963539475038209theme=:light](https://discord.com/users/330963539475038209) 
 
 - 👋 Hi, I’m @hxvy0
 - 👀 I’m interested in open source
