@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @hxvy0
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning PHP & HTML5
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me mastodon (hxvy0@qoto.org)
 
