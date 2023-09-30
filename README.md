@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/330963539475038209)](https://discord.com/users/330963539475038209)
 
 - 👋 Hi, I’m @hxvy0
-- 👀 I’m interested in open source
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning PHP & HTML5
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me mastodon (hxvy0@qoto.org)
