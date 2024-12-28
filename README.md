@@ -2,4 +2,4 @@
 
 
 💻 https://hxvy0.pages.dev
-🎶 https://last.fm/user/enesxzy0
+🎶 https://last.fm/user/enesxzy
