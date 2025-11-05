@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCbZwW0pRXjYMjLD1Phu5ruw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://last.fm/user/enesxzy" target="_blank"><img src="https://img.shields.io/badge/Last.FM-FF0000?style=for-the-badge&logo=lastfm&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/hxvyy0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/user/1237401371234537545" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:offline.come_4n@icloud.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
