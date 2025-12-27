@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Vibe coder with a passion for building things nobody asked for. When I’m not coding, you can find me playing Counter-Strike on Arch Linux or exploring new audio gear as an audiophile.
+    Vibe coder with a passion for building things nobody asked for. When I’m not coding, you can find me playing Counter-Strike on my GNU/Linux Laptop or exploring new audio gear as an audiophile.
   </p>
   
   <p align="center">
